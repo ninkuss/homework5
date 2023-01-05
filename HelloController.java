@@ -1,4 +1,4 @@
-package com.example.java_gugakordzakhia;
+package com.example.java_Nini_kusradze;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
