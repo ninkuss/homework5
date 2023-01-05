@@ -1,4 +1,4 @@
-package com.example.java_gugakordzakhia;
+package com.example.java_Nini_Kusradze;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
