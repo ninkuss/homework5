@@ -1,4 +1,4 @@
-package com.example.java_gugakordzakhia;
+package com.example.java_Nini_Kusradze;
 
 import javafx.application.Application;
 import javafx.collections.FXCollections;
