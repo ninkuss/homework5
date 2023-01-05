@@ -1,4 +1,4 @@
-package com.example.java_Nini_kusradze;
+package com.example.java_Nini_Kusradze;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
